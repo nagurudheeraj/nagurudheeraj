@@ -1,9 +1,29 @@
-<h1 align="center">Hi 👋, I'm Dheeraj Naguru</h1>
-<h3 align="center">A passionate web developer</h3>
+# Hi 👋🏾, I'm Dheeraj Naguru, a Creative Full Stack Web Developer
+<!-- <p align="center"> -->
+I am a passionate <i><b>fullstack</b> developer</i> with a strong emphasis on <i><b>frontend</b> development</i>. I specialize in <b>JavaScript</b>, <b>JavaScript frameworks</b>, and <b>CSS</b>. <br><br>My primary focus centers on crafting <i>captivating</i> and <i>seamless</i> user experiences using <i>cutting-edge</i> frontend technologies.  
+<br>
+Whether I'm building a <i>responsive website</i> or engineering a sophisticated <i>web application</i>, I'm passionate about infusing creativity into my work to deliver high-quality <i>software solutions</i> that not only meet <i>user needs</i> but also <i>inspire</i> and <i>captivate</i>.
+<br>
 
-- 💬 Ask me about **react, node**
+<!-- <p> -->
+
+# 
+- 🔭 I’m currently working for **Nuskin**
+
+- 🌱 I’m currently learning **GSAP**, **Qwik**, **Flutter**,  **Swift** or **Prompt Engineering** 
+<!-- **Next.js, Vue.js, & CSS Animations** -->
+
+<!-- - 🤝 I’m looking for help with [this Next.js project](https://github.com/Chanda-Abdul/Backstage-Talks-NextJS) -->
+
+- 👩🏽‍💻 View my most recent projects at [dheeru.vercel.app](http://dheeru.vercel.app/)
+
+- 💬 Ask me about **React JS, Next JS, Javascript**
 
 - 📫 How to reach me **dheerajnaguru@gmail.com**
+
+<!-- <h3 align="left">Connect with me:</h3> -->
+<p align="left">
+</p>
 
 
 
